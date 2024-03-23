@@ -32,7 +32,7 @@ This is a simple Note App for Android built with clean architecture principles u
 ### Project 3: [MVVMNewsApp](https://github.com/Nirali123456789/MVVMNewsApp.git)
 A news app built using the MVVM (Model-View-ViewModel) architecture pattern, Retrofit for networking, Room for local data storage, LiveData for reactive data streams, and a Repository pattern for data management.
 
-### Project 4: [Tourism](nirali123456789.github.io/Tourism/)
+### Project 4: [Tourism](https://nirali123456789.github.io/Tourism/)
 Introducing our innovative tourism app, designed to redefine the way you explore the world. With seamless integration of HTML, CSS, and captivating animations powered by JavaScript, our app promises an immersive journey like no other.
 
 ## Technologies Stacks
