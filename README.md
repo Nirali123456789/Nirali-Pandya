@@ -52,7 +52,7 @@ Introducing our innovative tourism app, designed to redefine the way you explore
 
 ## Follow Me 
 
-Follow me on medium by [https://medium.com/@nehavaidya95]
+Follow me on medium by https://medium.com/@nehavaidya95
 
 ## Contact Me
 
