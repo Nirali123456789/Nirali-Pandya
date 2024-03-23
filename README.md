@@ -56,6 +56,6 @@ Follow me on medium by [https://medium.com/@nehavaidya95]
 
 ## Contact Me
 
-Feel free to reach out to me via email at [nehavaidya95@.com] or connect with me on [LinkedIn](www.linkedin.com/in/nirali-pandya-a00659b1).
+Feel free to reach out to me via email at nehavaidya95@.com or connect with me on [LinkedIn](www.linkedin.com/in/nirali-pandya-a00659b1).
 
 
