@@ -1,9 +1,9 @@
 
-# Nirali-Pandya
+# Nirali
 
 # About Me
 
-Hi there! I'm Nirali Pandya, a passionate software developer with expertise in Android development and Web development.
+Hi there! I'm Nirali , a passionate software developer with expertise in Android development and Web development.
 
 ## My Stacks and Technologies
 
